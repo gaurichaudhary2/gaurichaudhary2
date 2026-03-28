@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Gauri Chaudhary 👋
 
-<!--
-**gaurichaudhary2/gaurichaudhary2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech First Year Student  
+🏫 VIT Bhopal University  
 
-Here are some ideas to get you started:
+💻 Interested in Front-End Development and Python Programming  
+🎨 Passionate about UI/UX Design and creating user-friendly interfaces  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning programming and digital literacy  
+🚀 Aiming to build strong skills in technology and innovation  
+
+✨ Exploring: HTML, CSS, Python, Figma
+
+
